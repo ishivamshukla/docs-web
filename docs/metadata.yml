@@ -1,0 +1,17 @@
+title: 'My First Article'
+date: 2019-03-02T12:00:00Z
+doi: # e.g. 10.1234/example.1
+repository: github:hubgit/mdx-paper-example
+
+authors:
+  - &alice-exemplar
+    id: 'alice-exemplar'
+    name: 'Alice Exemplar'
+    email: 'alice.exemplar@example.com'
+    url: http://example.com/authors/1
+    orcid: '0000-0002-9298-3168'
+
+  - &bob-exemplar
+    id: 'bob-exemplar'
+    name: 'Bob Exemplar'
+    orcid: '0000-0002-9341-7985'
